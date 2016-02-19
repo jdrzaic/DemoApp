@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_form">DemoApplication</string>
+    <string name="add_numbers">Aritmetičke operacije!</string>
+    <string name="enter_first_variable">
+        Unesi prvu vrijednost
+    </string>
+    <string name="enter_second_variable">
+        Unesi drugu vrijednost
+    </string>
+    <string name="calculate">Izračunaj</string>
+    <string name="title_activity_calculus">
+        CalculusActivity
+    </string>
+    <string name="send">Pošalji</string>
+    <string name="return_string">Return</string>
+    <string name="open">Otvori</string>
+    <string name="call">Nazovi</string>
+    <string name="add">Zbroji</string>
+    <string name="subtract">Oduzmi</string>
+    <string name="multiply">Pomnoži</string>
+    <string name="divide">Podijeli</string>
+</resources>
